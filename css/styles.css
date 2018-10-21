@@ -102,6 +102,12 @@ h4 {
     text-align: center;
 }
 
+.page-name {
+    font-size: 40px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
 
 /* Media Queries */
 
