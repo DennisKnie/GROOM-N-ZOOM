@@ -116,6 +116,13 @@ h4 {
 
 /* Photo Design */
 
+.shadow-box {
+    outline-style: solid;
+    outline-color: #4CAF50;
+    margin: 12px;
+}
+
+
 /* .row {
     display: -ms-flexbox;
     display: flex;
@@ -128,7 +135,8 @@ h4 {
 
 /* Create four equal columns that sits next to each other */
 
-/* .column {
+
+/*.column {
     -ms-flex: 25%;
     flex: 25%;
     max-width: 25%;
@@ -143,16 +151,18 @@ h4 {
 
 /* Responsive layout - makes a two column-layout instead of four columns */
 
+
 /* @media screen and (max-width: 800px) {
     .column {
         -ms-flex: 50%;
         flex: 50%;
         max-width: 50%;
     }
-} */
+}
 
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+
 
 /* @media screen and (max-width: 600px) {
     .column {
@@ -184,6 +194,7 @@ h4 {
     flex-flow: row wrap;
     justify-content: space-around;
     align-items: space-around;
+    align-content: space-around;
 }
 
 
