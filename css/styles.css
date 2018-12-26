@@ -119,6 +119,7 @@ h4 {
 .shadow-box {
     outline-style: solid;
     outline-color: #4CAF50;
+    box-shadow: 15px 15px  15px grey;
     margin: 12px;
 }
 
